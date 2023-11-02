@@ -3,7 +3,7 @@ console.log(myGreeting);
 
 const pi = 3.14;
 
-//pi = 2;
+pi = 2;
 //We're unable to reassign the value of "pi" since its a constant and can't be changed.
 let myNumber = 7;
 
